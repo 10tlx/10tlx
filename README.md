@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Hussin Abdalameer!
 
 ### 🎓 About Me
-- 💻 **Computer Technology Engineering Student** | Class of 2026
+- 💻 **Computer Technology Engineering ** 
 - 🐧 Proud **Arch Linux** & **Linux** user
 - 🔭 Currently working on: **AI Development** focusing on **Spatial Computing** and Computer Vision.
 - 🌱 Exploring: **3D Hand-tracking interfaces** using Python, MediaPipe, and Pyglet, plus Web UI with **Framer**.
 - ⚡ Fun fact: I love tinkering with hardware like **ESP32** and **Arduino**, and exploring cybersecurity tools.
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
